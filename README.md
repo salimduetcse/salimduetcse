@@ -1,6 +1,5 @@
 #### Md Salim Miah
 ####  System Architect-DevOps|RHCSA|RHCE|Ansible|Git|Github|Jenkin|Middleware-Jboss and Weblogic|Oracle DBA|PL/SQL|MSSQL|MySQL|PostgreSQL|Apache Kafka|Core Banking Solution|Virtualization|Fintech 
-![ Solution Engineer | Oracle DBA | Oracle PL/SQL Developer|Core Banking Solution|AML|Fintech ]
 
 Since December 2014, I have more than Eight years of solid experience as an Oracle Database Engineer in PL/SQL, SQL, MSSQL, Data Migration from MSSQL server to Oracle 11g, Database Design, Database Modeling, Data Mapping, Cleansing, Data Exports & Imports, Performance Tuning, Oracle Tuning & Optimization, Application Support. As a Senior Product Engineer at Sonali Intellect Limited, I am currently working on a Java EE & Oracle PL/SQL-based Core Banking Solution (CBS) for public sector bank Rupali Bank Limited. I have contributed to achieving a struck milestone of all branch (582) migration in the Rupali Bank Project.
 
